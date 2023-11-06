@@ -1,4 +1,22 @@
-body{background-color: beige;}
-p{text-align: center;}
-text{color: brown;}
-strong{color: black;}
+body {background-color: rgb(255, 240, 215);}
+
+
+
+.p1 {text-align: center;
+    text-align: justify;
+    font-size: 25px;
+    color: rgb(69, 45, 38);
+}
+
+.p2 {text-align: center;
+    text-align: justify;
+    font-size: 25px;
+    color: rgb(57, 36, 29);
+}
+
+.p3 {text-align: center;
+    text-align: justify;
+    font-size: 25px;
+    color: rgb(69, 45, 38);
+}
+
