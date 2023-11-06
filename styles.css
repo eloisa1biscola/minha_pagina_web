@@ -1,22 +1,37 @@
 body {background-color: rgb(255, 240, 215);}
 
+.h1 {
+    text-align: center;
+    font-size: large;
+    color: rgb(87, 17, 17);
+}
 
+.h2 {
+    text-align: center;
+    font-size: medium;
+    color: rgb(87, 17, 17);
+}
 
-.p1 {text-align: center;
+.p1 {
     text-align: center;
     font-size: 21px;
     color: rgb(69, 45, 38);
 }
 
-.p2 {text-align: center;
+.p2 {
     text-align: center;
     font-size: 21px;
     color: rgb(57, 36, 29);
 }
 
-.p3 {text-align: center;
+.p3 {
     text-align: center;
     font-size: 21px;
     color: rgb(69, 45, 38);
 }
 
+.li {
+    text-align: left;
+    font-size: 21px;
+    color: rgb(69, 45, 38);
+}
