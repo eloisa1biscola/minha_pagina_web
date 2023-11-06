@@ -1,12 +1,12 @@
 body {background-color: rgb(255, 240, 215);}
 
-.h1 {
+#titulo1a {
     text-align: center;
     font-size: large;
     color: rgb(87, 17, 17);
 }
 
-.h2 {
+#titulo2 {
     text-align: center;
     font-size: medium;
     color: rgb(87, 17, 17);
