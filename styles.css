@@ -29,3 +29,34 @@ body {background-color: rgb(255, 240, 215);}
     font-size: 21px;
     color: rgb(69, 45, 38);
 }
+
+#img1 {
+    display: block;
+    margin: 0 auto;
+}
+
+.ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+    font-size: 20px;
+}
+
+#img2 {
+    width: 50%;    
+}
+
+.header {
+    text-align: center;
+    font-size: 50px;
+    color:rgb(87, 17, 17)
+}
+
+.principal {
+    background-color: rgb(255, 240, 215) ;
+}
+
+.beneficios {
+    background-color: bisque;
+}
