@@ -54,9 +54,9 @@ body {background-color: rgb(255, 240, 215);}
 }
 
 .principal {
-    background-color: rgb(255, 240, 215) ;
+    background: rgb(255, 240, 215) ;
 }
 
 .beneficios {
-    background-color: bisque;
+    background: bisque;
 }
